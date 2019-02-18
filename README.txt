@@ -18,4 +18,4 @@ Inspect and run code:
 
 1) $ jupyter notebook
 2) Navigate file system
-3) Open .ipynb file
+3) Open the "Subsampled Hessian-Free Inexact Newton Method.ipynb" file
